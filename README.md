@@ -3,7 +3,7 @@
 
 ## Demo
 
-You can see the online demo here [Jekyll Demo](http://egobrightan.fithub.io/jekyllmdl)
+You can see the online demo here [Jekyll Demo](http://egobrightan.github.io/jekyllmdl)
 
 ![Demo](https://raw.githubusercontent.com/gdg-managua/jekyll-mdl/master/jekyll-mdl-screen.png)
 
