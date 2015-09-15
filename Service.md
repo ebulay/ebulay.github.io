@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Service
-permalink: /service/
+permalink: /Service/
 ---
 
 ###ဝန္ေဆာင္မႈမ်ား
