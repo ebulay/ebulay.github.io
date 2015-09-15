@@ -1,3 +1,9 @@
+---
+layout: page
+title: Service
+permalink: /service/
+---
+
 ###ဝန္ေဆာင္မႈမ်ား
 
 
